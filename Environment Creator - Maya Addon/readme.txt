@@ -1,0 +1,1 @@
+The Environment Creator is a Maya add on programmed in Python. The add on lets the user create libraries of objects to a directory and use them to build environments inside of Maya. The user selects an icon from the interface and clicks "Import" to import the selected object into the scene.
